@@ -11,7 +11,6 @@
 .DS_Store
 test
 test.log
-vendor/
 # Executables produced by temporal-go-samples repo
 bin/
 .fossa.yml
